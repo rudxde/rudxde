@@ -7,7 +7,7 @@
 ---
 
 <p align="center">
-    💻 dev @ Elunic AG </br>
+    <!--💻 dev @  </br>-->
     👨‍🎓 student @ TU Munich
 </p>
 
