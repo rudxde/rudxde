@@ -8,7 +8,8 @@
 
 <p align="center">
     <!--💻 dev @  </br>-->
-    👨‍🎓 student @ TU Munich
+    💻 Junior Consultant @ MHP
+    👨‍🎓 B Sc. Informatics (TUM)
 </p>
 
 ---
