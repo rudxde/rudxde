@@ -8,7 +8,7 @@
 
 <p align="center">
     <!--💻 dev @  </br>-->
-    💻 Junior Consultant @ MHP
+    💻 Junior Consultant @ MHP  
     👨‍🎓 B Sc. Informatics (TUM)
 </p>
 
