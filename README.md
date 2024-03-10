@@ -8,7 +8,7 @@
 
 <p align="center">
     <!--💻 dev @  </br>-->
-    💻 IT Consultant @ MHP <br/>
+    💻 Developer | BMW Group <br/>
     👨‍🎓 B. Sc. Informatics (TUM)
 </p>
 
